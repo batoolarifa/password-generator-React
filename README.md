@@ -2,6 +2,9 @@
 
 This project is a **Password Generator App** built using **React**. The app allows users to generate secure passwords with customizable options such as length, inclusion of numbers, and special characters. The generated password can be easily copied to the clipboard for use.
 
+![Password Generator](https://github.com/user-attachments/assets/ea3c6f34-7c3f-45e0-82e2-461db78f4dcc)
+
+
 ## Features
 - Generate secure passwords of customizable length.
 - Option to include numbers and special characters in the password.
